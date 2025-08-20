@@ -1,5 +1,6 @@
 # MonoProtocol Token Contract
 
+### Deployment Address: 0xfBcDF4fedfd953C77E003CD042d9332A1AEe6D8B
 Details on MonoProtocol Token deployment, audits and further details will be added soon!
 
 ## Foundry
