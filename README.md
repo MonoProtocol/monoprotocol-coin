@@ -1,6 +1,6 @@
-# Token Contract
+#MonoProtocol Token Contract
 
-Details on Token deployment, audits and further details will be added soon!
+Details on MonoProtocol Token deployment, audits and further details will be added soon!
 
 ## Foundry
 
