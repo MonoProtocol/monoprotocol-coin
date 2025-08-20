@@ -1,0 +1,17 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+broadcast/
+
+# Ignore gas snapshot files
+.gas-snapshot
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+.vscode/
