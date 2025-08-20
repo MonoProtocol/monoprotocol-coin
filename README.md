@@ -1,4 +1,4 @@
-#MonoProtocol Token Contract
+# MonoProtocol Token Contract
 
 Details on MonoProtocol Token deployment, audits and further details will be added soon!
 
